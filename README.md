@@ -159,7 +159,7 @@
 | 262007   |✅ Detective Cotume|
 | 262008   |✅ Glass Chess (Quest Item)|
 | 262009   |✅ Skateboard (Box Usable Item)|
-| 262010   |✅ Skateboard (Box Usable Item)|
+| 262010   |✅ Bike (Box Usable Item)|
 | ...      |           |
 | 263000   |           |
 
